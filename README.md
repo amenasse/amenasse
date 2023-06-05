@@ -1,6 +1,9 @@
-### Hi there 👋
 
-Devops for everyone. Cloud navigator, short stories, breakbeats and massive cups of tea.
+# About me
+
+:wave:
+
+DevOps for everyone. Cloud navigator, short stories, breakbeats and massive cups of tea.
 
 
 Available for:
