@@ -3,7 +3,7 @@
 
 :wave:
 
-DevOps for everyone. Cloud navigator, short stories, breakbeats and massive cups of tea.
+DevOps for everyone. Cloud navigator, short stories, vintage micros and massive cups of tea.
 
 
 Available for:
