@@ -5,12 +5,5 @@
 
 DevOps for everyone. Cloud navigator, short stories, vintage micros and massive cups of tea.
 
-
-Available for:
-
-- Cloud Workshops ☁️🔨 
--  Cost optimization 💵 
--  Infrastructure mentoring ☕
-
-Checkout my games for Commodore 64:
+Checkout my games at:
 https://sysantmin.itch.io/
